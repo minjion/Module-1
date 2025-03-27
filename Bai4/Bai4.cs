@@ -75,7 +75,7 @@
         private void Bai4_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult r;
-            r = MessageBox.Show("Muốn tắt thiệt k ba?", "yo",
+            r = MessageBox.Show("Bạn có chắc là muốn thoát không?", "Khoan đã",
                                 MessageBoxButtons.YesNo,
                                 MessageBoxIcon.Question,
                                 MessageBoxDefaultButton.Button1);
