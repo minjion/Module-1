@@ -11,7 +11,7 @@ namespace Bai7
         {
             picOn.Visible = false;
             picOff.Visible = true;
-            lblWtfIsThis.Text = txtName.Text + " Turn Off the Light, please!”";
+            label3.Text = txtName.Text + " Turn Off the Light, please!”";
         }
 
         private void btnExit_Click(object sender, EventArgs e)

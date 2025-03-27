@@ -36,7 +36,7 @@
             picOff = new PictureBox();
             label1 = new Label();
             label2 = new Label();
-            lblWtfIsThis = new Label();
+            label3 = new Label();
             btnExit = new Button();
             ((System.ComponentModel.ISupportInitialize)picOn).BeginInit();
             ((System.ComponentModel.ISupportInitialize)picOff).BeginInit();
@@ -89,7 +89,7 @@
             label1.Name = "label1";
             label1.Size = new Size(65, 20);
             label1.TabIndex = 4;
-            label1.Text = "Quentin";
+            label1.Text = "Hoang Minh";
             // 
             // label2
             // 
@@ -100,14 +100,14 @@
             label2.TabIndex = 5;
             label2.Text = "Designed by:";
             // 
-            // lblWtfIsThis
+            // lable3
             // 
-            lblWtfIsThis.AutoSize = true;
-            lblWtfIsThis.Location = new Point(292, 121);
-            lblWtfIsThis.Name = "lblWtfIsThis";
-            lblWtfIsThis.Size = new Size(38, 15);
-            lblWtfIsThis.TabIndex = 6;
-            lblWtfIsThis.Text = "label3";
+            label3.AutoSize = true;
+            label3.Location = new Point(292, 121);
+            label3.Name = "label3";
+            label3.Size = new Size(38, 15);
+            label3.TabIndex = 6;
+            label3.Text = "Click me";
             // 
             // btnExit
             // 
@@ -125,7 +125,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(384, 261);
             Controls.Add(btnExit);
-            Controls.Add(lblWtfIsThis);
+            Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(picOn);
@@ -150,7 +150,7 @@
         private PictureBox picOff;
         private Label label1;
         private Label label2;
-        private Label lblWtfIsThis;
+        private Label label3;
         private Button btnExit;
     }
 }

@@ -161,7 +161,7 @@
             Controls.Add(lblTitle);
             Name = "Bai8";
             Text = "Form1";
-            FormClosing += Bai8_FormClosing;
+            //FormClosing += Bai8_FormClosing;
             FormClosed += Bai8_FormClosed;
             ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
             ResumeLayout(false);

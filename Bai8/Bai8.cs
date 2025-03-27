@@ -68,8 +68,8 @@
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Muốn thoát thiệt k ní?",
-                                          "ayyo",
+            DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn thoát không?",
+                                          "Khoan đã",
                                           MessageBoxButtons.YesNo,
                                           MessageBoxIcon.Question);
 
@@ -83,15 +83,15 @@
         {
         }
 
-        private void Bai8_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            DialogResult r;
-            r = MessageBox.Show("Muốn thoát thiệt k ní?", "ayyo",
-                                MessageBoxButtons.YesNo,
-                                MessageBoxIcon.Question,
-                                MessageBoxDefaultButton.Button1);
-            if (r == DialogResult.No)
-                e.Cancel = true;
-        }
+        //private void Bai8_FormClosing(object sender, FormClosingEventArgs e)
+        //{
+        //    DialogResult r;
+        //    r = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Khoan đã",
+        //                        MessageBoxButtons.YesNo,
+        //                        MessageBoxIcon.Question,
+        //                        MessageBoxDefaultButton.Button1);
+        //    if (r == DialogResult.No)
+        //        e.Cancel = true;
+        //}
     }
 }
