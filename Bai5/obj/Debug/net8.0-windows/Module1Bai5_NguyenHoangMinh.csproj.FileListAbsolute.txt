@@ -1,0 +1,16 @@
+D:\Module-1-main\Bai5\bin\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.exe
+D:\Module-1-main\Bai5\bin\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.deps.json
+D:\Module-1-main\Bai5\bin\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.runtimeconfig.json
+D:\Module-1-main\Bai5\bin\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.dll
+D:\Module-1-main\Bai5\bin\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.pdb
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Bai5.Bai5.resources
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.csproj.GenerateResource.cache
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.AssemblyInfoInputs.cache
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.AssemblyInfo.cs
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.csproj.CoreCompileInputs.cache
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.dll
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\refint\Module1Bai5_NguyenHoangMinh.dll
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.pdb
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\Module1Bai5_NguyenHoangMinh.genruntimeconfig.cache
+D:\Module-1-main\Bai5\obj\Debug\net8.0-windows\ref\Module1Bai5_NguyenHoangMinh.dll
