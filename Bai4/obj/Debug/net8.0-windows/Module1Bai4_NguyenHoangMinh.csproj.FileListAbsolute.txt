@@ -1,0 +1,6 @@
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Bai4.Bai4.resources
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenHoangMinh.csproj.GenerateResource.cache
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenHoangMinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenHoangMinh.AssemblyInfoInputs.cache
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenHoangMinh.AssemblyInfo.cs
+D:\Module-1-main\Bai4\obj\Debug\net8.0-windows\Module1Bai4_NguyenHoangMinh.csproj.CoreCompileInputs.cache

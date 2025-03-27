@@ -1,0 +1,16 @@
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Bai2.frmBtap2.resources
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.csproj.GenerateResource.cache
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.AssemblyInfoInputs.cache
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.AssemblyInfo.cs
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.csproj.CoreCompileInputs.cache
+D:\Module-1-main\Bai2\bin\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.exe
+D:\Module-1-main\Bai2\bin\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.deps.json
+D:\Module-1-main\Bai2\bin\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.runtimeconfig.json
+D:\Module-1-main\Bai2\bin\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.dll
+D:\Module-1-main\Bai2\bin\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.pdb
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.dll
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\refint\Module1Bai2_NguyenHoangMinh.dll
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.pdb
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\Module1Bai2_NguyenHoangMinh.genruntimeconfig.cache
+D:\Module-1-main\Bai2\obj\Debug\net8.0-windows\ref\Module1Bai2_NguyenHoangMinh.dll
