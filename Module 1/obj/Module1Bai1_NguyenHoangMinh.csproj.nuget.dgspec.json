@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj": {}
+    "D:\\Module-1\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj": {
+    "D:\\Module-1\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj",
+        "projectUniqueName": "D:\\Module-1\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj",
         "projectName": "Module1Bai1_NguyenHoangMinh",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj",
+        "projectPath": "D:\\Module-1\\Module 1\\Module1Bai1_NguyenHoangMinh.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Module 1\\obj\\",
+        "outputPath": "D:\\Module-1\\Module 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
