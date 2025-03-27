@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module_1.Bai1.resources
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module1Bai1_NguyenHoangMinh.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module1Bai1_NguyenHoangMinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module1Bai1_NguyenHoangMinh.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module1Bai1_NguyenHoangMinh.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - ueh.edu.vn\Máy tính\Module-1-main\Module 1\obj\Debug\net8.0-windows\Module1Bai1_NguyenHoangMinh.csproj.CoreCompileInputs.cache

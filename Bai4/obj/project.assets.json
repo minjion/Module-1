@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai10\\Bai10\\Module1Bai10_NguyenHoangMinh.csproj",
-      "projectName": "Module1Bai10_NguyenHoangMinh",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai10\\Bai10\\Module1Bai10_NguyenHoangMinh.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai4\\Module1Bai4_NguyenHoangMinh.csproj",
+      "projectName": "Module1Bai4_NguyenHoangMinh",
+      "projectPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai4\\Module1Bai4_NguyenHoangMinh.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai10\\Bai10\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive - ueh.edu.vn\\Máy tính\\Module-1-main\\Bai4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
